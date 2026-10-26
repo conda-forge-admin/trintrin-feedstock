@@ -3,11 +3,11 @@ About trintrin-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trintrin-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/ami-iit/trintrin
+Home: https://github.com/gbionics/trintrin
 
 Package license: BSD-3-Clause
 
-Summary: Set of messages and interfaces used in Artificial Mechanical Intelligence lab at Italian Institute of Technology.
+Summary: Set of messages and interfaces used in Generative Bionics.
 
 Current build status
 ====================
