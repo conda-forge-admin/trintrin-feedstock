@@ -11,8 +11,6 @@ source:
 
 build:
   number: 0
-  skip:
-    - ppc64le
 
 outputs:
   - package:
@@ -105,10 +103,10 @@ outputs:
             - trintrin
 
 about:
-  homepage: https://github.com/ami-iit/trintrin
+  homepage: https://github.com/gbionics/trintrin
   license: BSD-3-Clause
   license_file: LICENSE
-  summary: Set of messages and interfaces used in Artificial Mechanical Intelligence lab at Italian Institute of Technology.
+  summary: Set of messages and interfaces used in Generative Bionics.
 
 extra:
   feedstock-name: trintrin
